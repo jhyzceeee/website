@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+body {
+    background: blanchedalmond;
+    background-position: center;
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    text-align: left;
+    font-family: Poppins;
+    margin: 0%;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: burlywood;
+    margin: 0%;
+    padding: 1%;
+}
+.title {
+    margin-left: 15px;
+}
+.nav ul {
+    display: flex;
+    list-style-type: none;
+}
+.nav li a {
+    text-decoration: none;
+    margin: 0 14px;
+    color: black;
+}
+.mainpic {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10cm;
+    height: 10cm;
+}
+.paragraphs {
+    margin: 20px;  
+}
+.details {
+    margin: 20px;
+}
+.harrypotter {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.heist {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.peregrines {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.shawshank {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.aib {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.stranger {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.awtr {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.queen {
+    display: block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12cm;
+    height: 15cm;
+}
+.fb:hover {
+    color: #3b5998;
+}
+.twt:hover {
+    color: #1d9bf0;
+}
+.ig:hover {
+    color: #db04e2;
+}
+footer {
+    margin: 20px;
+}
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
